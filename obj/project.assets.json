@@ -8808,7 +8808,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 3.1.9",
       "Microsoft.EntityFrameworkCore.SQLite >= 3.1.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.9",
-      "Microsoft.Extensions.Logging.Debug >= *",
+      "Microsoft.Extensions.Logging.Debug >= 3.1.9",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.4"
     ]
   },
@@ -8863,7 +8863,7 @@
           },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "[3.1.9, )"
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
